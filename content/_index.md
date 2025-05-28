@@ -36,11 +36,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a Postdoctoral Researcher with a strong background in gesture recognition, human-computer interaction, and extended reality technologies, including both augmented and virtual reality. My research focuses on developing intelligent interaction systems that bridge the gap between humans and machines, with applications in Industry 4.0, human-robot collaboration, and immersive interfaces.
-
+        I’m focused on developing intelligent interaction systems that bridge the gap between humans and machines, with applications in Industry 4.0, human-robot collaboration, and immersive interfaces.
         Over the years, I’ve designed and evaluated novel benchmarks for online 3D gesture recognition, created XR applications for remote monitoring and control, and collaborated internationally with academic and industrial partners. My work combines AI-driven methods (including deep learning and data augmentation) with a user-centered approach to interaction design.
-
-        I’m currently open to new opportunities in both academic and industry settings, particularly roles that involve the development of computer vision applications and research. I can provide deep expertise in HCI, especially in designing and evaluating user-centered interactive systems.
     design:
       columns: '1'
   - block: collection
