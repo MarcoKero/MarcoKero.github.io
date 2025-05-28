@@ -17,13 +17,14 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/PhD_CV_Marco_Emporio.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
+          #MODIFICARE immagine di sfondo
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -35,11 +36,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a Postdoctoral Researcher with a strong background in gesture recognition, human-computer interaction, and extended reality technologies, including both augmented and virtual reality. My research focuses on developing intelligent interaction systems that bridge the gap between humans and machines, with applications in Industry 4.0, human-robot collaboration, and immersive interfaces.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Over the years, I’ve designed and evaluated novel benchmarks for online 3D gesture recognition, created XR applications for remote monitoring and control, and collaborated internationally with academic and industrial partners. My work combines AI-driven methods (including deep learning and data augmentation) with a user-centered approach to interaction design.
+
+        I’m currently open to new opportunities in both academic and industry settings, particularly roles that involve the development of computer vision applications and research. I can provide deep expertise in HCI, especially in designing and evaluating user-centered interactive systems.
     design:
       columns: '1'
   - block: collection
