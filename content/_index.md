@@ -37,6 +37,7 @@ sections:
 #      columns: '1'
 
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -44,6 +45,7 @@ sections:
       is_education_first: false
 
   - block: resume-skills
+    id: skills
     content:
       title: Skills & Hobbies
       username: admin
@@ -109,6 +111,7 @@ sections:
 #        padding: [0, 0, 0, 0]
 
   - block: collection
+    id: projects
     content:
       title: Selected Projects
       text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
