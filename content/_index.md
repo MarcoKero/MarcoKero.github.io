@@ -50,63 +50,63 @@ sections:
     design:
       show_skill_percentage: false
 
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+#  - block: resume-awards
+#    content:
+#      title: Awards
+#      username: admin
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+#  - block: resume-languages
+#    content:
+#      title: Languages
+#      username: admin
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+#  - block: collection
+#    id: papers
+#    content:
+#      title: Featured Publications
+#      filters:
+#        folders:
+#          - publication
+#        featured_only: true
+#    design:
+#      view: article-grid
+#      columns: 2
 
-  - block: collection
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publication
-    design:
-      view: citation
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      filters:
+#        folders:
+#          - publication
+#    design:
+#      view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
 
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      page_type: post
-      count: 5
-      filters:
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      order: desc
-    design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
+#  - block: collection
+#    id: news
+#    content:
+#      title: Recent News
+#      page_type: post
+#      count: 5
+#      filters:
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#      order: desc
+#    design:
+#      view: date-title-summary
+#      spacing:
+#        padding: [0, 0, 0, 0]
 
   - block: collection
     content:
