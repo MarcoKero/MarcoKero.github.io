@@ -27,14 +27,14 @@ sections:
           position: center
           parallax: false
 
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      text: |-
-        I’m focused on developing intelligent interaction systems that bridge the gap between humans and machines, with applications in Industry 4.0, human-robot collaboration, and immersive interfaces.
-        Over the years, I’ve designed and evaluated novel benchmarks for online 3D gesture recognition, created XR applications for remote monitoring and control, and collaborated internationally with academic and industrial partners. My work combines AI-driven methods (including deep learning and data augmentation) with a user-centered approach to interaction design.
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: '📚 My Research'
+#      text: |-
+#        📚 My Research focus is on developing intelligent interaction systems that bridge the gap between humans and machines, with applications in Industry 4.0, human-robot collaboration, and immersive interfaces.
+#        Over the years, I’ve designed and evaluated novel benchmarks for online 3D gesture recognition, created XR applications for remote monitoring and control, and collaborated internationally with academic and industrial partners. My work combines AI-driven methods (including deep learning and data augmentation) with a user-centered approach to interaction design.
+#    design:
+#      columns: '1'
 
   - block: resume-experience
     content:
